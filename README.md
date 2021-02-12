@@ -1,8 +1,8 @@
 # Practice
 
 ## Инвариантивные задания
-<a href="https://github.com/t-anastasia/Practice/blob/main/1.1_%D0%98%D0%A1%D0%A0.pdf">Задание 1.1. Изучить и проанализировать печатные и Internet-источники по философским проблемам информатики.</a>
-<p><a href="https://github.com/t-anastasia/Practice/blob/main/1.2%20_%D0%98%D0%A1%D0%A0.pdf">Задание 1.2. Выделить важные этапы в истории развития информатики и их социальные последствия</a></p>
+<p><a href="https://github.com/t-anastasia/Practice/blob/main/1.1_%D0%98%D0%A1%D0%A0.pdf">Задание 1.1. Изучить и проанализировать печатные и Internet-источники по философским проблемам информатики.</a></p>
+<p><a href="https://github.com/t-anastasia/Practice/blob/main/1.2_%D0%98%D0%A1%D0%A0.pdf">Задание 1.2. Выделить важные этапы в истории развития информатики и их социальные последствия</a></p>
 <p><a href="https://github.com/t-anastasia/Practice/blob/main/1.3_%D0%98%D0%A1%D0%A0.pdf">Задание 1.3. Изучить стандарты и спецификации в сфере ИТ</a></p>
 <p><a href="https://github.com/t-anastasia/Practice/blob/main/1.4_%D0%98%D0%A1%D0%A0.pdf">Задание 1.4. Изучить и освоить комплекс физических упражнений для программиста.</a></p>
 <p><a href="https://github.com/t-anastasia/Practice/blob/main/1.5_%D0%98%D0%A1%D0%A0.pdf">Задание 1.5. Изучить и освоить гимнастику для глаз</a></p>
